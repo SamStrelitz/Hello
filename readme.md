@@ -5,3 +5,5 @@
 2. is
 3. a
 4. list
+
+Sam Strelitz, aersixb9@hotmail.com
